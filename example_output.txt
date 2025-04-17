@@ -1,0 +1,13 @@
+=== File Hash Analyzer ===
+Enter path to the file: test_file.exe
+
+[🔍] Scanning test_file.exe...
+
+SHA256: e3b0c44298fc1c149afbf4c8996...
+
+[⚠️] Detected by 3 of 71 engines.
+ - Avast: Win32:Trojan-gen
+ - Kaspersky: Trojan-Downloader.Win32.Agent
+ - Sophos: Mal/Generic-S
+
+[✅] File is known and flagged as suspicious.
